@@ -1,5 +1,5 @@
 ## Hi there
-(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 
 <!--
 **Samuel-Filho-DEV/Samuel-Filho-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
