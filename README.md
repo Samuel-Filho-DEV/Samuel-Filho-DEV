@@ -7,5 +7,5 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## Get in touch
 
-My personal blog: www.myblog.com/
+My personal blog: www.myblog.com  
 GameDev Blog:
