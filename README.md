@@ -4,4 +4,4 @@
 ## Get in touch
 
 My personal blog: www.myblog.com  
-GameDev Blog:
+
